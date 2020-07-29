@@ -1,0 +1,11 @@
+{
+  "name": "tmp.CwgEwnrvEc",
+  "dependencies": {
+    "@mikro-orm/core": "next",
+    "@mikro-orm/sqlite": "next",
+    "@types/node": "^14.0.27",
+    "mikro-orm": "next",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
+}
